@@ -1,0 +1,2 @@
+{"channel_ref":"refund-1","issue":"rent1","amount":1800,"state":"accepted","occurred_at":"2026-11-18T09:00:00+08:00"}
+{"channel_ref":"refund-1","issue":"rent1","amount":1800,"state":"settled","occurred_at":"2026-11-20T09:00:00+08:00"}

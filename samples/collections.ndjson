@@ -1,0 +1,5 @@
+{"point":"auto-4","event":"m1","kind":"machine_in","issue":"rent1","box":"box7","occurred_at":"2026-11-17T18:00:00+08:00"}
+{"point":"hot-c","event":"c1","kind":"box_check","issue":"rent1","box":"box7","prior":["auto-4","m1"],"occurred_at":"2026-11-18T08:00:00+08:00"}
+{"point":"hot-d","event":"c1","kind":"confirmed","issue":"rent1","box":"box7","occurred_at":"2026-11-17T17:45:00+08:00"}
+{"point":"auto-4","event":"m1","kind":"machine_in","issue":"rent1","box":"box7","occurred_at":"2026-11-17T18:00:00+08:00"}
+{"point":"hot-c","event":"c2","kind":"confirmed","issue":"rent2","box":"box7","occurred_at":"2026-11-24T10:00:00+08:00"}
