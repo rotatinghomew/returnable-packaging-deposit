@@ -10,3 +10,6 @@ coverage/
 __pycache__/
 *.py[cod]
 .DS_Store
+/data/*.json
+/data/*.tmp
+/turnbox-state.json
